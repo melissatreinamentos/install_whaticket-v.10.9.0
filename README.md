@@ -53,5 +53,5 @@ sudo apt-get update && sudo apt-get upgrade -y
 reboot
 
 - 3º passo: link do instalador.
-  
-sudo apt install -y git && git clone https://github.com/melissatreinamentos/install_whaticket-v.10.9.0.git instalador-whaticket && sudo chmod -R 777 instalador-whaticket && cd instalador-whaticket && sudo ./install_primaria
+
+sudo apt install -y git && git clone https://github.com/melissatreinamentos/install_whaticket-v.10.9.0.git install_whaticket && sudo chmod -R 777 install_whaticket && cd install_whaticket && sudo ./install_primaria
